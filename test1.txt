@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is C04F-1C10
+
+ Directory of C:\Users\prasa\Desktop\MyProject
+
+22-04-2019  04:50 PM    <DIR>          .
+22-04-2019  04:50 PM    <DIR>          ..
+22-04-2019  04:50 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  317,177,925,632 bytes free
